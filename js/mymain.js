@@ -1,6 +1,6 @@
 //nav
 let navBarName = ["Home","About","Classes","Teachers","Contact","Zip","Author"];
-let navBarLinks = ["index.html","#AboutUS","#class.html","#team.html","#contact.html","#","author.html"];
+let navBarLinks = ["index.html","#AboutUS","#class.html","#team.html","#contact.html","https://drive.google.com/file/d/1cIPi7qnTsgU67DOeMejgGJS8TB9XllKL/view?usp=drive_link","author.html"];
 
 let whyYouShouldPickList=["Fun activities that make learning enjoyable","Safe and caring environment for every child","Creative programs that develop skills and healthy habits"]
 let optionsForKids=[
@@ -299,5 +299,6 @@ if(checkSuccess){
 
 
 })
+
 
 
