@@ -179,19 +179,19 @@ for(let i = 0; i < imgTeacher.length; i++){
                 <a
                   class="btn btn-outline-light text-center mr-2 px-0"
                   style="width: 38px; height: 38px"
-                  href="twitter.com"
+                  href="https://x.com/"
                   ><i class="fab fa-twitter"></i
                 ></a>
                 <a
                   class="btn btn-outline-light text-center mr-2 px-0"
                   style="width: 38px; height: 38px"
-                  href="facebook.com"
+                  href="https://www.facebook.com/?locale=sr_RS"
                   ><i class="fab fa-facebook-f"></i
                 ></a>
                 <a
                   class="btn btn-outline-light text-center px-0"
                   style="width: 38px; height: 38px"
-                  href="linkedin.com"
+                  href="https://www.linkedin.com/"
                   ><i class="fab fa-linkedin-in"></i
                 ></a>
               </div>
@@ -300,6 +300,7 @@ if(checkSuccess){
 
 
 })
+
 
 
 
