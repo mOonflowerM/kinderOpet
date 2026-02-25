@@ -268,10 +268,11 @@ let checkSuccess = true;
 
 if(!regexName.test(nameValue)){
   wrongMessageName.textContent="Name needs to be between 3-30 characters!";
+ checkSuccess=false; 
     
 }else{
   wrongMessageName.textContent="";
- checkSuccess=false;
+ 
 }
 if(!emailRegex.test(emailValue)){
   wrongMessageEmail.textContent="Email needs to have an @!";
@@ -299,6 +300,7 @@ if(checkSuccess){
 
 
 })
+
 
 
 
