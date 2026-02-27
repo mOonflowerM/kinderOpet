@@ -9883,3 +9883,6 @@ textarea{
   color:green;
   display:none;
 }
+@media (max-width: 525px) {
+ 
+}
