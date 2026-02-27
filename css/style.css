@@ -9884,5 +9884,13 @@ textarea{
   display:none;
 }
 @media (max-width: 525px) {
+  .myWeirdDiv{
+  width:100%;
+ }
  
+}
+@media (min-width: 525px) {
+ .myWeirdDiv{
+  width:50%;
+ }
 }
